@@ -1,5 +1,9 @@
 # Pixabay
 
+Este proyecto tiene el fin de buscar imagenes atraves de la API de pixabay, famoso buscador de imagenes.
+
+Para este proyecto use Angular 10 y Bootstrap.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
 ## Development server
