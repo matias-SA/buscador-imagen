@@ -1,6 +1,6 @@
 # Pixabay
 
-Este proyecto tiene el fin de buscar imagenes atraves de la API de pixabay, famoso buscador de imagenes.
+Este proyecto tiene el fin de buscar imagenes atraves de la API de pixabay, famoso buscador de imagenes. Trabaje interiorizandome en las llamadas HTTP y manejo de datos y como pintarlas en la pantalla
 
 Para este proyecto use Angular 10 y Bootstrap.
 
